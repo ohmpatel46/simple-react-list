@@ -1,0 +1,16 @@
+.new-goal
+{
+    display: flex;
+    justify-content: center;
+    margin:2rem;
+}
+.new-goal input{
+    margin-right: 1rem;
+    height: 30px;
+    font-size: 15px;
+}
+
+.new-goal button{
+    height: 30px;
+    font-size: 15px;
+}
